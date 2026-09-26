@@ -27,14 +27,17 @@ Coverage is stored in `data/plan.json` on this computer.
 
 ## Landing Page
 Uses local authentication, change `OWNER_PASSWORD` in `.env` to change password, if not hosting publicly you can safely use the default password
+
 <img width="597" height="742" alt="firefox_U0eopn06eg" src="https://github.com/user-attachments/assets/1274a0ea-fd1e-4222-90ac-55b181ea5f58" />
 
 ## Base Coverage Page
 Set your monthly price and add new users here (monthly price is stored locally after being set until new price is set)
+
 <img width="867" height="882" alt="firefox_Otvvj9ufwK" src="https://github.com/user-attachments/assets/8e257dce-1574-4b6c-9d56-c345dff8d3f4" />
 
 ## Example User Display
 Example of how it looks when users are added with various payment plans.
+
 <img width="792" height="913" alt="firefox_tgtCOFOTH7" src="https://github.com/user-attachments/assets/8279e8c4-a842-4fe1-b8b8-0246189bb409" />
 
 ## Expanded User Card
