@@ -1,0 +1,12 @@
+{
+  "name": "family-plan-coverage",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test src/coverage.test.js"
+  }
+}
