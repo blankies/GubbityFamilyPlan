@@ -7,9 +7,8 @@ A $15 payment on Sep 26, at $5 a month, is paid through Dec 26. The next payment
 ## Setup
 
 1. Install Node.js 18 or newer.
-2. Copy `.env.example` to `.env`.
-3. Set `OWNER_PASSWORD` and a `SESSION_SECRET` of at least 16 characters.
-4. From this folder, run:
+2. Open `.env` & set `OWNER_PASSWORD` and a `SESSION_SECRET` of at least 16 characters.
+3. From root folder, run:
 
 ```
 npm install
